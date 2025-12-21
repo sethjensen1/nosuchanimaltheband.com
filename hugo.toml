@@ -1,0 +1,8 @@
+baseURL = 'https://nosuchanimaltheband.com/'
+languageCode = 'en-us'
+title = 'No Such Animal'
+theme = 'no-such-theme'
+disableKinds = ["taxonomy","term"]
+[outputs]
+  home = ['html']
+  section = ['html']

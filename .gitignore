@@ -1,0 +1,19 @@
+# hugo
+public
+resources
+.hugo_build.lock
+themes
+
+# pnpm
+node_modules
+
+# macos
+._*
+.DS_Store
+
+# swap
+*.swp
+~*
+
+tmp
+
