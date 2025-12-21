@@ -12,4 +12,4 @@ Their next release will be “Milk + Honey”, a hard-hitting punk-rock anthem t
 
 No Such Animal regularly performs across Utah and in nearby states, playing in Salt Lake City, Phoenix, Logan, St. George, and at festivals such as Fork Fest and Buzzards & Bees. Following the success of their single, “Witches in Salt Lake City,” they released “The Entertainer,” an album about making sense of things in a world of witches, spacemen and cyborgs. Their music has amassed over 2,000,000 streams.
 
-(shortcode for image grid)
+{{< gallery resource_folder="images/press-kit" >}}

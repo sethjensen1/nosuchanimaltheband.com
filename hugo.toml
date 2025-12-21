@@ -2,7 +2,7 @@ baseURL = 'https://nosuchanimaltheband.com/'
 languageCode = 'en-us'
 title = 'No Such Animal'
 theme = 'no-such-theme'
-disableKinds = ["taxonomy","term"]
+disableKinds = ["taxonomy","term","section"]
+
 [outputs]
   home = ['html']
-  section = ['html']
