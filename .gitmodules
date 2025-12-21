@@ -1,0 +1,3 @@
+[submodule "themes/no-such-theme"]
+	path = themes/no-such-theme
+	url = git@github.com:sethjensen1/no-such-theme.git
