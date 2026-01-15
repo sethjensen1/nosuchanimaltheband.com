@@ -1,0 +1,12 @@
+- name: Bandcamp
+  link: https://nosuchanimal.bandcamp.com/
+  icon: /images/icons/bandcamp-logo-black.png
+- name: YouTube
+  link: https://www.youtube.com/@nosuchanimaltheband/
+  icon: /images/icons/youtube-logo-black.png
+- name: Instagram
+  link: https://www.instagram.com/nosuchanimaltheband/
+  icon: /images/icons/instagram-logo-black.svg
+- name: TikTok
+  link: https://www.tiktok.com/@nosuchanimal
+  icon: /images/icons/tiktok-logo-black.svg
