@@ -2,18 +2,16 @@
 title = 'Home'
 +++
 
-hey this is the home page
-
-Laborum voluptate pariatur ex culpa magna nostrud est incididunt fugiat
-pariatur do dolor ipsum enim. Consequat tempor do dolor eu. Non id id anim anim
-excepteur excepteur pariatur nostrud qui irure ullamco.
-
-Stream on Bandcamp:
+No Such Animal is a rock band based in Utah. You can stream our music for free on [Bandcamp](https://nosuchanimal.bandcamp.com/):
 
 {{< bandcamp-player >}}
 
-(newsletter signup)
-
 (merch)
+
+{{< photo src="images/band-fades-away.jpg" >}}
+
+{{< newsletter-signup >}}
+
+{{< photo src="images/band-fades-away.jpg" >}}
 
 {{< shows >}}
