@@ -6,8 +6,6 @@ No Such Animal is a rock band based in Utah. You can stream our music for free o
 
 {{< bandcamp-player photo="/images/inaya-symphonic-20251108-1000x1000.png" >}}
 
-{{< photo src="images/band-fades-away.jpg" >}}
-
 {{< newsletter-signup >}}
 
 {{< photo src="images/band-fades-away.jpg" >}}
