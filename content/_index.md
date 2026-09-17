@@ -2,7 +2,7 @@
 title = 'Home'
 +++
 
-No Such Animal is a rock band based in Utah. You can stream our music for free on [Bandcamp](https://nosuchanimal.bandcamp.com/). You can also buy CDs and vinyl there.
+We're a rock band from Utah. You can stream our music wherever music is streamed or buy our CDs and vinyl on [Bandcamp](https://nosuchanimal.bandcamp.com/).
 
 {{< bandcamp-player photo="/images/inaya-symphonic-20251108-1000x1000.png" >}}
 

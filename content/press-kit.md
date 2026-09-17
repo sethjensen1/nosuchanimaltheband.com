@@ -1,5 +1,7 @@
 ---
 title: Electronic Press Kit
+params:
+  no_background: true
 ---
 
 ## Electronic Press Kit
