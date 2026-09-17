@@ -1,0 +1,16 @@
+#!/bin/bash
+
+set -euo pipefail
+trap 'exit 1' INT
+
+run_dir=$( cd "$( dirname "${BASH_SOURCE[0]}" )" > /dev/null && pwd )
+cd "$run_dir"/.. || exit 1
+
+echo "Removing build-old (if any)"
+rm -rf build-old
+
+pnpm tailwindcss -i themes/no-such-theme/assets/css/input.css -o themes/no-such-theme/assets/css/output.css
+hugo || exit 2
+
+mv build-complete build-old 2>/dev/null || :
+mv build build-complete || exit 3

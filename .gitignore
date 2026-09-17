@@ -1,5 +1,7 @@
 # hugo
-public
+build
+build-complete
+build-old
 resources
 .hugo_build.lock
 #themes
