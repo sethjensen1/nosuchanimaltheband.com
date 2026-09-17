@@ -6,8 +6,8 @@ trap 'exit 1' INT
 run_dir=$( cd "$( dirname "${BASH_SOURCE[0]}" )" > /dev/null && pwd )
 cd "$run_dir"/.. || exit 1
 
-echo "Removing build-old (if any)"
-rm -rf build-old
+echo "Removing build and build-old (if any)"
+rm -rf build build-old
 
 pnpm tailwindcss -i themes/no-such-theme/assets/css/input.css -o themes/no-such-theme/assets/css/output.css
 hugo || exit 2
